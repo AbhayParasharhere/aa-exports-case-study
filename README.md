@@ -35,8 +35,11 @@ The goal: build a professional marketing site that communicates credibility, sho
 ![Brands and Steps](screenshots/05_brands_steps.png)
 *Client testimonials + 3-step approach — Contact → Discuss → Sample/Produce*
 
-![Factory and FAQ](screenshots/06_factory_faq.png)
-*Factory section (10,000+ units/month, 40+ artisans, Sedex certified) + FAQ accordion + footer*
+![Factory](screenshots/06_factory.png)
+*Factory section — 10,000+ units/month, 40+ artisans in Agra India, Sedex certified*
+
+![FAQ](screenshots/07_faq.png)
+*FAQ accordion — MOQ, ethics, quality control, sustainable sourcing, prototyping, JIT orders*
 
 ---
 
